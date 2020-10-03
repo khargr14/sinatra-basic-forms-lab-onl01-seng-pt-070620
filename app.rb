@@ -1,5 +1,6 @@
 require_relative 'config/environment'
 
 class App < Sinatra::Base
-aertw
+aertw do
+end
 end
